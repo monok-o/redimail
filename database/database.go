@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/robjullian/fff-mail-link/models"
+	"github.com/robjullian/redimail/models"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
